@@ -17,8 +17,13 @@ export const DINO_GAME = {
 export const bookmarks: Bookmark[] = [
   {
     icon: FAVICON_BASE_PATH,
-    name: "daedalOS",
-    url: "https://dustinbrett.com/",
+    name: "梁宇峰",
+    url: "https://liangyufeng.com/",
+  },
+  {
+    icon: "/System/Icons/Favicons/drug.webp",
+    name: "药药导航",
+    url: "https://liangyufeng.cn/",
   },
   {
     icon: "/System/Icons/Favicons/dir.webp",
