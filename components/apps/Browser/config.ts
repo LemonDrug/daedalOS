@@ -32,6 +32,11 @@ export const bookmarks: Bookmark[] = [
   },
   DINO_GAME,
   {
+    icon: "/System/Icons/Favicons/Bing.webp",
+    name: "必应",
+    url: "https://www.bing.com/?mkt=zh-CN/",
+  },
+  {
     icon: "/System/Icons/Favicons/google.webp",
     name: "Google",
     url: "https://www.google.com/webhp?igu=1",
@@ -58,7 +63,7 @@ export const bookmarks: Bookmark[] = [
   },
 ];
 
-export const HOME_PAGE = "https://www.google.com/webhp?igu=1";
+export const HOME_PAGE = "https://www.bing.com/?mkt=zh-CN/";
 
 export const LOCAL_HOST = new Set(["127.0.0.1", "localhost"]);
 

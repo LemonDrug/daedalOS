@@ -14,7 +14,7 @@ export const IFRAME_CONFIG = {
     "allow-downloads allow-forms allow-modals allow-pointer-lock allow-popups allow-presentation allow-same-origin allow-scripts",
 };
 
-export const DEFAULT_LOCALE = "en";
+export const DEFAULT_LOCALE = "zh-CN";
 
 export const DEFAULT_ASCENDING = true;
 
@@ -336,10 +336,10 @@ export const TASKBAR_HEIGHT = 30;
 export const PACKAGE_DATA = {
   alias: "梁宇峰｜药药",
   author: {
-    email: "dustinbrett@gmail.com",
-    name: "Dustin Brett",
+    email: "15868633@qq.com",
+    name: "LemonDrug",
     npub: "npub10uc7hg6wdxhhd7ee8x9c5lr9d0ux7272rv2m0mc03ds54q7quxjss02r3p",
-    url: "https://dustinbrett.com",
+    url: "https://liangyufeng.com",
   },
   description: "Desktop environment in the browser",
   license: "MIT",
