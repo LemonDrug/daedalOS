@@ -18,7 +18,7 @@ export const bookmarks: Bookmark[] = [
   {
     icon: FAVICON_BASE_PATH,
     name: "梁宇峰",
-    url: "https://liangyufeng.com/",
+    url: "https://pc.liangyufeng.cn/",
   },
   {
     icon: "/System/Icons/Favicons/drug.webp",
